@@ -1,5 +1,8 @@
-Change 1 – commit with message as “Change1 in File1”
+Change 1 - commit with message as “Change1 in File1”
 
-Change 2 – commit with message as “Change2 in File1”
+Change 2 - commit with message as “Change2 in File1”
 
-Change 4 – commit with message as “Did Change 4 to practice Rebasing”
+Change 3 - commit with message as “Created new branch named 'idea'”
+
+Change 4 - commit with message as “Did Change 4 to practice Rebasing”
+
